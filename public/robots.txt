@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-bc60e79b-e387-4ed5-bc28.onrender.com/sitemap.xml
+Sitemap: https://hanekuda-hakalkalit.zappy5.app/sitemap.xml
